@@ -1,1 +1,3 @@
 fpdf
+arabic_reshaper
+python_bidi
